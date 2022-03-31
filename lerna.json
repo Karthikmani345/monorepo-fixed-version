@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "version": "fixed",
+  "command": {
+    "publish": {
+      "registry": "http://0.0.0.0:4873/"
+    }
+  }
+}
