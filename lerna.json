@@ -1,0 +1,11 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "publish": {
+      "registry": "http://0.0.0.0:4873/"
+    }
+  },
+  "version": "0.1.0-beta.0"
+}
